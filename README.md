@@ -4,4 +4,4 @@ Creating a Data Lake and performing some basic visualization
 
 Basic Architecture :
 
-!(info_screenshots/tes.png)
+![](info_screenshots/tes.png)
