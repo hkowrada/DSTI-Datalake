@@ -6,25 +6,32 @@ Basic Architecture :
 
 ![](info_screenshots/tes.png)
 
+### What is ADF?
+#### Azure Data Factory (ADF) is a cloud integration system, which allows moving data between on-premises and cloud systems as well as scheduling and orchestrating complex data flows. ADF is more of an Extract-and-Load and Transform-and-Load platform rather than a traditional Extract-Transform-and-Load (ETL) platform.
+
 DashBoard where we can have details:
 
 ![](info_screenshots/dashboard.png)
 
-Data flow info
-![](info_screenshots/df_list.png)
+### What is HDinsight Cluster
+#### Azure HDInsight is a cloud distribution of Hadoop components. Azure HDInsight makes it easy, fast, and cost-effective to process massive amounts of data. You can use the most popular open-source frameworks such as Hadoop, Spark, Hive, LLAP, Kafka, Storm, R, and more.
+### Hive used in this process.
 
-Data Flow pipeline
-![](info_screenshots/df_pl.png)
-
-Data Sets Info
+#### Data Sets Info
 ![](info_screenshots/ds_list.png)
 
-Linked Services 
+#### Data flow info
+![](info_screenshots/df_list.png)
+
+#### Linked Services 
 ![](info_screenshots/ls.png)
 
-List of pipelines
+#### Data Flow pipeline
+![](info_screenshots/df_pl.png)
+
+#### List of pipelines
 
 ![](info_screenshots/pl_list.png)
 
-Triggers info
+#### Triggers info
 ![](info_screenshots/tr.png)
