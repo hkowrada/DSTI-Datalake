@@ -16,7 +16,7 @@ Basic Architecture :
 #### Azure HDInsight is a cloud distribution of Hadoop components. Azure HDInsight makes it easy, fast, and cost-effective to process massive amounts of data. You can use the most popular open-source frameworks such as Hadoop, Spark, Hive, LLAP, Kafka, Storm, R, and more.
 
 #### Azure DashBoard Overview:
-![](info_screenshots/Dashboard_overview.png)
+![](info_screenshots/dashboard_overview.png)
 ### Hive used in this process.
 
 #### DashBoard where we can have details:
