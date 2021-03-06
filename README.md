@@ -6,9 +6,6 @@ Basic Architecture :
 
 ![](info_screenshots/tes.png)
 
-BI overview:
-![](info_screenshots/BIview.png)
-
 Overview Project:
 ![](info_screenshots/overviewproject.png)
 
@@ -52,3 +49,6 @@ Overview Project:
 
 #### Triggers info
 ![](info_screenshots/tr.png)
+
+#### BI overview:
+![](info_screenshots/BIview.png)
