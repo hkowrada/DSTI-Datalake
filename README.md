@@ -6,8 +6,20 @@ Basic Architecture :
 
 ![](info_screenshots/tes.png)
 
+BI overview:
+![](info_screenshots/BIview.png)
+
+Overview Project:
+![](info_screenshots/overviewproject.png)
+
 ### What is ADF?
 #### Azure Data Factory (ADF) is a cloud integration system, which allows moving data between on-premises and cloud systems as well as scheduling and orchestrating complex data flows. ADF is more of an Extract-and-Load and Transform-and-Load platform rather than a traditional Extract-Transform-and-Load (ETL) platform.
+
+### ADF
+![](info_screenshots/adf-def.png)
+
+### DATA SOURCE
+![](info_screenshots/c1.png)
 
 #### Azure portal page overview:
 ![](info_screenshots/overview.png)
