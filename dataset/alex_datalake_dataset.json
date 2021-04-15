@@ -13,7 +13,7 @@
 				"fileName": "text-transfer.txt",
 				"fileSystem": "weu-02-dev-hdinsight-hb-2021-04-13t13-20-51-367z"
 			},
-			"columnDelimiter": "",
+			"columnDelimiter": "\t",
 			"escapeChar": "\\",
 			"quoteChar": "\""
 		},

@@ -13,7 +13,7 @@
 				"fileName": "test_transfert.txt",
 				"container": "alex"
 			},
-			"columnDelimiter": "",
+			"columnDelimiter": "\t",
 			"escapeChar": "\\",
 			"quoteChar": "\""
 		},
