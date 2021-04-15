@@ -1,0 +1,22 @@
+{
+	"name": "alex_dataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "alex_ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "test_transfert.txt",
+				"container": "alex"
+			},
+			"columnDelimiter": "",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
